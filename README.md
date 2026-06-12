@@ -23,7 +23,7 @@ I'm **[`Navami Sudhi`](https://www.linkedin.com/in/navami-sudhi-7058903a7?utm_so
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     
-      <img src="https://img.shields.io/badge/Graphic_Design-000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Graphic Design" />
+   <img src="https://img.shields.io/badge/Graphic_Design-000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Graphic Design" />   
 <img src="https://img.shields.io/badge/Typography-000000?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Typography" />
 <img src="https://img.shields.io/badge/Branding-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Branding" />
 <img src="https://img.shields.io/badge/Logo_Design-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Logo Design" />
