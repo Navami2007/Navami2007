@@ -1,7 +1,6 @@
 I'm **[`Navami Sudhi`](https://www.linkedin.com/in/navami-sudhi-7058903a7?utm_source=share_via&utm_content=profile&utm_medium=member_android)**,"I am a B.Des Communication Design student passionate about visual storytelling, branding, and user-centered design. With a strong interest in graphic design, UI/UX, and creative problem-solving, I create meaningful and engaging visual experiences. My goal is to communicate ideas effectively, inspire audiences, and contribute to impactful design solutions."
 
-<a href="https://linkedin.com/Navami Sudhi"><img src="https://www.linkedin.com/in/navami-sudhi-7058903a7?utm_source=share_via&utm_content=profile&utm_medium=member_android" /></a>
-
+<a href="https://www.linkedin.com/in/navami-sudhi-7058903a7?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <details>
   <summary>More about me</summary>
 
