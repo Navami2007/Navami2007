@@ -64,8 +64,7 @@ I'm **[`Navami Sudhi`](https://www.linkedin.com/in/navami-sudhi-7058903a7?utm_so
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[FIX IT NOW ](https://github.com/Navami2007/FIX-IT-NOW/blob/main/README.md)**    |A smart campus issue management and PG finder in one platform  |
+
 
 ---
