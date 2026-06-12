@@ -49,9 +49,11 @@ I'm **[`Navami Sudhi`](https://www.linkedin.com/in/navami-sudhi-7058903a7?utm_so
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OSCP Certification" />
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
+<img 
+  src="https://img.shields.io/badge/Web%20Development-Workshop-blue?style=for-the-badge&logo=html5&logoColor=white" 
+  alt="Terra Crafts" 
+/>
+
 
 </div>
 
